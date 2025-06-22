@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
@@ -34,7 +34,6 @@
 #### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot)
 
 #### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
