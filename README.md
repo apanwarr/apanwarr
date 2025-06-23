@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on [DeepFake Detection App](https://github.com/apanwarr/Deep_Sheild_)
+- 🔭 I’m currently working on AI-ML Projects.
 - 👯 I’m looking to collaborate on [Team Collaboration Board (Trello Clone)](https://github.com/apanwarr/Team_Board_Frontend)
 - 🤝 I’m looking for help with [MERN + AI Integration Projects](https://github.com/apanwarr)
 - 🌱 I’m currently learning **AI-ML**
