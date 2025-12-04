@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on AI-ML Projects.
+- 🔭 Currently focused on learning AI integration within full-stack applications.
 - 👯 I’m looking to collaborate on [Team Collaboration Board (Trello Clone)](https://github.com/apanwarr/Team_Board_Frontend)
 - 🤝 I’m looking for help with [MERN + AI Integration Projects](https://github.com/apanwarr)
 - 🌱 I’m currently learning **AI-ML**
