@@ -29,8 +29,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
