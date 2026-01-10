@@ -63,7 +63,8 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=apanwarr&theme=radical&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=apanwarr&theme=radical)
+
 ---
 
 ### 🔥 Visitors Count
