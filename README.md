@@ -57,14 +57,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apanwarr&show_icons=true&theme=radical&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanwarr&layout=compact&theme=radical&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=apanwarr&theme=radical&hide_border=true"/> </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apanwarr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apanwarr&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=apanwarr&theme=radical)
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=apanwarr&theme=radical&no-frame=true&row=1&column=6"/> </p>
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=apanwarr&theme=radical&no-frame=true)
 ---
 
 ### 🔥 Visitors Count
