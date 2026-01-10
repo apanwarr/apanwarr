@@ -55,8 +55,8 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apanwarr&show_icons=true&theme=radical) 4
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apanwarr&layout=compact&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apanwarr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apanwarr&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=apanwarr&theme=radical)
 
 ---
