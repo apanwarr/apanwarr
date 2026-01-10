@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 Currently focused on learning AI integration and automation within full-stack applications.
+- 🔭 Currently focused on learning AI integration and automation within full-stack applications(MERN).
 - 👯 I’m looking to collaborate on [Team Collaboration Board (Trello Clone)](https://github.com/apanwarr/Team_Board_Frontend)
 - 🤝 I’m looking for help with [MERN + AI Integration Projects](https://github.com/apanwarr)
 - 🌱 I’m currently learning **AI-ML**
@@ -18,9 +18,8 @@
 ### 🛠️ Languages and Tools:
 
 #### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java) 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
@@ -37,8 +36,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
 
 #### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
 #### ☁️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
@@ -57,15 +57,13 @@
 
 ### 📊 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=apanwarr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apanwarr&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=apanwarr&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apanwarr&show_icons=true&theme=radical&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apanwarr&layout=compact&theme=radical&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=apanwarr&theme=radical&hide_border=true"/> </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=apanwarr&theme=radical)](https://github.com/apanwarr/github-profile-trophy)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=apanwarr&theme=radical&no-frame=true&row=1&column=6"/> </p>
 
 ---
 
