@@ -4,14 +4,12 @@
 ---
 
 - 🔭 Currently focused on learning AI integration and automation within full-stack applications(MERN).
-- 👯 I’m looking to collaborate on [Team Collaboration Board (Trello Clone)](https://github.com/apanwarr/Team_Board_Frontend)
+- 👯 I’m looking to collaborate on [Team Collaboration Board](https://github.com/apanwarr/Team_Board_Frontend)
 - 🤝 I’m looking for help with [MERN + AI Integration Projects](https://github.com/apanwarr)
-- 🌱 I’m currently learning **AI-ML**
 - 💬 Ask me about **Full Stack Development**
 - 📫 How to reach me: **ashishpanwar413@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ashishportfolio.kesug.com)
 - 📄 Know about my experiences: **MERN Stack [Full Stack Developer]**
-- ⚡ Fun fact: **I think I am funny 😄**
 
 ---
 
